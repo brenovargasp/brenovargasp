@@ -9,7 +9,7 @@
         Olá, meu nome é Breno Vargas Pereira, tenho 19 anos e sou um estudante dedicado da Universidade São Judas Tadeu (USJT). Minha paixão por aprender e explorar novos conhecimentos me levou a me aprofundar em diversas áreas. Sou habilidoso em ferramentas como Word, PowerPoint e as ferramentas avançadas do Google, além de possuir um bom domínio do Excel e um conhecimento intermediário em Photoshop. No campo da programação, tenho conhecimentos intermediários em Java, MySQL, HTML5, CSS3 e JavaScript, o que me permite desenvolver soluções e projetos interessantes. Além de ter domínio da linguagem UML e do aplicativo de anotações Notion. Estou sempre em busca de desafios que possam me ajudar a crescer tanto academicamente quanto profissionalmente, e estou entusiasmado para continuar expandindo minhas habilidades e contribuir de forma significativa em projetos futuros.
 </details>
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bre.var2004@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMTJMgwpNSkMtlgmMZpVCRJxJjNjrbQMNrGTvKhFnsmmDbfxBlppWGCwbkxDdMwQbTLXGZ)
 
 ###
 

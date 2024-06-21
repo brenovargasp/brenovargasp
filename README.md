@@ -8,7 +8,7 @@
 - 🧑🏻‍💻 Java, HTML5, CSS3, JavaScript, MySQL
 
 <details>
-  <summary>🧑🏻 Sobre mim</summary>
+  <summary>🧑🏻 About me</summary>
         My passion for learning and exploring new knowledge has led me to delve into various fields since I began my studies in 2022. I am skilled in tools like Word, PowerPoint, and advanced Google tools, in addition to having a good command of Excel and intermediate knowledge in Photoshop. In the field of programming, I have intermediate knowledge in Java, MySQL, HTML5, CSS3, and JavaScript, which allows me to develop interesting solutions and projects. Furthermore, I am proficient in UML and the Notion note-taking application. I am always seeking challenges that can help me grow both academically and professionally, and I am excited to continue expanding my skills and contributing significantly to future projects.
 </details>
 

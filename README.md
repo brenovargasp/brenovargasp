@@ -1,11 +1,11 @@
 # Hello, I'm Breno Vargas Pereira! 😊
 
-- 😁 20 years old developer
+- 😁 21 years old developer
 - 🏫 Computer science student at USJT
 - 🧠 I enjoy solving problems and developing applications
 - 📚 Focused on front-end, databases and information security
 - 💻 Technology enthusiast
-- 🧑🏻‍💻 Java, HTML5, CSS3, JavaScript, MySQL
+- 🧑🏻‍💻 Java, Python, JavaScript, MySQL
 
 <details>
   <summary>🧑🏻 About me</summary>
